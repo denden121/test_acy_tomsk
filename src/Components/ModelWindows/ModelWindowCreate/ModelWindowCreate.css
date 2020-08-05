@@ -1,0 +1,15 @@
+.model-title{
+    background-color: gold;
+    /*text-align: center;*/
+    padding: 10px;
+
+}
+div{
+    margin-bottom: 20px;
+}
+
+.model-create{
+    /*display: flex;*/
+    /*text-align: center;*/
+    /*justify-content: center;*/
+}

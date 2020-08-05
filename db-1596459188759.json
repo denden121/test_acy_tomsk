@@ -1,0 +1,24 @@
+{
+  "workers": [
+    {
+      "id": 1,
+      "name": "den",
+      "surname": "dsffs"
+    },
+    {
+      "id": 2,
+      "name": "ivan",
+      "surname": "fds"
+    },
+    {
+      "id": 3,
+      "name": "maks",
+      "surname": "dfs"
+    },
+    {
+      "id": 4,
+      "name": "petr",
+      "surname": "fds"
+    }
+  ]
+}
